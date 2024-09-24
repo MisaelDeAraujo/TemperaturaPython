@@ -17,3 +17,8 @@ Este projeto em Python simula a coleta de dados de temperatura e os armazena em 
   - `pandas` para manipulação de dados
   - `azure-storage-blob` para interagir com o Azure Blob Storage
 - **Ambiente de Desenvolvimento:** [PyCharm]
+
+## Executar
+- Instale as dependência de requirements.txt com o comando pip install -r requirements.txt
+- Adicione uma conexão a nuvem
+- Depois execute o sistema
